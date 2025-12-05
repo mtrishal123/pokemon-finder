@@ -4,7 +4,7 @@ A React + TypeScript application that allows users to search and discover Pokém
 
 ## Live Demo
 
-[View Live Site](https://your-netlify-url.netlify.app) *(Replace with your actual Netlify URL)*
+[View Live Site] https://profound-froyo-366714.netlify.app
 
 ## Features
 
@@ -49,7 +49,7 @@ A React + TypeScript application that allows users to search and discover Pokém
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/pokemon-finder.git
+   git clone https://github.com/mtrishal123/pokemon-finder.git
    cd pokemon-finder
    ```
 
